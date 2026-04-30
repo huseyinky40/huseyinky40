@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Hüseyin Kaya
 
-<!--
-**huseyinky40/huseyinky40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering student** at Istanbul Arel University (3rd year)  
+Interested in **Web Programming** and **Data Science**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+**Web & Frontend**  
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Data Science & ML**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Database**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Systems & Other**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [pulsetalk](https://github.com/huseyinky40/pulsetalk) | Real-time chat application | Next.js · TypeScript · Prisma · Tailwind |
+| [arel-global-marketplace-RDBMS](https://github.com/huseyinky40/arel-global-marketplace-RDBMS) | MySQL e-commerce database with multi-currency support, 20+ triggers, EER diagram | MySQL · SQL |
+| [gallstone-prediction-knn-analysis](https://github.com/huseyinky40/gallstone-prediction-knn-analysis) | ML research on 320 clinical records using k-NN & ensemble models with SHAP explainability · Planned TÜBİTAK 2209-A | Python · scikit-learn · SHAP |
+| [image-segmentation-comparison](https://github.com/huseyinky40/image-segmentation-comparison) | Benchmarks 6 classical segmentation algorithms (GrabCut, K-Means, Watershed…) on product photos | Python · OpenCV |
+| [ssh-style-hybrid-tunnelling](https://github.com/huseyinky40/ssh-style-hybrid-tunnelling) | Secure communication tunnel with RSA key exchange, AES-128 encryption and Stop-and-Wait ARQ | C · TCP Sockets |
+| [clothing-store-management-system](https://github.com/huseyinky40/Clothing-store-management-system) | Desktop app with separate admin & customer panels, Swing GUI, file-based persistence | Java · Swing |
+| [gumusdag-raporlama-sistemi](https://github.com/huseyinky40/gumusdag_raporlama_sistemi) | Reporting system | — |
+
+---
+
+## 📊 GitHub Stats
+
+![Hüseyin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseyinky40&show_icons=true&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinky40&layout=compact&hide_border=true&theme=default)
+
+---
+
+## 📍 About Me
+
+- 🎓 3rd year Computer Engineering @ **Istanbul Arel University**
+- 💡 Special interests: **Web Programming** & **Data Science**
+- 🔬 Working on ML research planned for **TÜBİTAK 2209-A**
+- 📍 Istanbul, Turkey
+
+---
+
+*Feel free to explore my repositories and reach out!*
