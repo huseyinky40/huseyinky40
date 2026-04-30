@@ -39,17 +39,20 @@ Interested in **Web Programming** and **Data Science**
 | [pulsetalk](https://github.com/huseyinky40/pulsetalk) | Real-time chat application | Next.js · TypeScript · Prisma · Tailwind |
 | [arel-global-marketplace-RDBMS](https://github.com/huseyinky40/arel-global-marketplace-RDBMS) | MySQL e-commerce database with multi-currency support, 20+ triggers, EER diagram | MySQL · SQL |
 | [gallstone-prediction-knn-analysis](https://github.com/huseyinky40/gallstone-prediction-knn-analysis) | ML research on 320 clinical records using k-NN & ensemble models with SHAP explainability · Planned TÜBİTAK 2209-A | Python · scikit-learn · SHAP |
-| [image-segmentation-comparison](https://github.com/huseyinky40/image-segmentation-comparison) | Benchmarks 6 classical segmentation algorithms (GrabCut, K-Means, Watershed…) on product photos | Python · OpenCV |
+| [image-segmentation-comparison](https://github.com/huseyinky40/image-segmentation-comparison) *(group project)* | Benchmarks 6 classical segmentation algorithms (GrabCut, K-Means, Watershed…) on product photos | Python · OpenCV |
+| [CVision](https://github.com/fatihcatalcam/CVision) *(group project)* | AI-powered CV analyzer & career recommendation SaaS platform | Python · FastAPI · React · TypeScript |
 | [ssh-style-hybrid-tunnelling](https://github.com/huseyinky40/ssh-style-hybrid-tunnelling) | Secure communication tunnel with RSA key exchange, AES-128 encryption and Stop-and-Wait ARQ | C · TCP Sockets |
 | [clothing-store-management-system](https://github.com/huseyinky40/Clothing-store-management-system) | Desktop app with separate admin & customer panels, Swing GUI, file-based persistence | Java · Swing |
 | [gumusdag-raporlama-sistemi](https://github.com/huseyinky40/gumusdag_raporlama_sistemi) | Reporting system | — |
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
 
-![Hüseyin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseyinky40&show_icons=true&hide_border=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinky40&layout=compact&hide_border=true&theme=default)
+* Machine Learning & Data Science
+* Advanced Database Systems
+* Network Programming
+* Web Development (Frontend & UI Design)
 
 ---
 
@@ -59,6 +62,13 @@ Interested in **Web Programming** and **Data Science**
 - 💡 Special interests: **Web Programming** & **Data Science**
 - 🔬 Working on ML research planned for **TÜBİTAK 2209-A**
 - 📍 Istanbul, Turkey
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyinky40)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:huseyinky40@gmail.com)
 
 ---
 
