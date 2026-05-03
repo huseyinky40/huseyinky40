@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hüseyin Kaya
+# Hi, I'm Hüseyin Kaya
 
 **Computer Engineering student** at Istanbul Arel University (3rd year)  
 Interested in **Web Programming** and **Data Science**
@@ -26,7 +26,6 @@ Interested in **Web Programming** and **Data Science**
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Database**  
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
