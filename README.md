@@ -51,6 +51,7 @@ Interested in **Web Programming** and **Data Science**
 | [image-segmentation-comparison](https://github.com/huseyinky40/image-segmentation-comparison) *(group project)* | Benchmarks 6 classical segmentation algorithms (GrabCut, K-Means, Watershed…) on product photos | Python · OpenCV |
 | [CVision](https://github.com/fatihcatalcam/CVision) *(group project)* | AI-powered CV analyzer with email verification, password reset, JWT auth & OpenAI integration for career recommendations | FastAPI · React · TypeScript · SQLite · SQLAlchemy · Bcrypt · SMTP |
 | [ssh-style-hybrid-tunnelling](https://github.com/huseyinky40/ssh-style-hybrid-tunnelling) | Secure communication tunnel with RSA key exchange, AES-128 encryption and Stop-and-Wait ARQ | C · TCP Sockets |
+| [geo-satellite-communication-systems](https://github.com/huseyinky40/geo-satellite-communication-systems) | GEO satellite link simulation — link budget, BER analysis (BPSK/QPSK/8-PSK/16-QAM), Shannon capacity & ITU-R P.838 rain attenuation modelled on Türksat 4A | Python · NumPy · SciPy · Matplotlib |
 | [clothing-store-management-system](https://github.com/huseyinky40/Clothing-store-management-system) | Desktop app with separate admin & customer panels, Swing GUI, file-based persistence | Java · Swing |
 | [gumusdag-raporlama-sistemi](https://github.com/huseyinky40/gumusdag_raporlama_sistemi) | Reporting system | — |
 
